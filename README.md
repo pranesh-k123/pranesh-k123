@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to run
 -->
+- 🔭 I’m currently working on learning computer science basics
+- 🤔 I’m looking for help with Excel and Python data maniplution and analysis
+- 📫 How to reach me: kalavala.pranesh@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to run
